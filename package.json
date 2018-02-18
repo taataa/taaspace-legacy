@@ -1,0 +1,38 @@
+{
+  "name": "taaspace",
+  "version": "5.0.0",
+  "description": "Zoomable user interface lib for web apps",
+  "keywords": [
+    "zoomable",
+    "zooming",
+    "user interface",
+    "ui",
+    "frontend",
+    "scenegraph",
+    "html",
+    "layout",
+    "zui",
+    "css",
+    "transform",
+    "transformation",
+    "multitouch",
+    "touch",
+    "gesture"
+  ],
+  "homepage": "https://github.com/taataa/tapspace",
+  "main": "index.js",
+  "author": {
+    "name": "Akseli Palen",
+    "email": "akseli.palen@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taataa/taaspace-legacy.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tapspace": "*"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
